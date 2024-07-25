@@ -1,1 +1,1 @@
-contenido del archivo
+contenido del archivo . Segunda linea de texto
